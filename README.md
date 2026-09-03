@@ -138,8 +138,8 @@ Phần lớn framework đến từ các sách Tư duy & Phương pháp Quản l�
 - **Fogg Behavior Model**: dùng thuật ngữ hiện tại B=MAP (Motivation-Ability-Prompt); yếu tố thứ 3 trước đây gọi là "Trigger" (B=MAT), sau đổi thành "Prompt".
 - **SCQA**: là kỹ thuật mở đầu bên trong Minto Pyramid Principle, không phải một framework tách biệt — được gộp vào `giao-tiep-trinh-bay/references/minto-pyramid.md`.
 - **NLP Logical Levels**: phổ biến trong tài liệu NLP/coaching, không có cùng mức kiểm chứng khoa học thực nghiệm như các mô hình tâm lý học hàn lâm — dùng như công cụ đặt câu hỏi, không phải lý thuyết đã được chứng minh.
-- **Porter's Five Forces, Ansoff Matrix, Pre-mortem, Stakeholder Map**: 4 framework bổ sung sau bản đầu (từ việc rà soát repo `phuryn/pm-skills`), không nằm trong nguồn sách gốc — được thêm vào vì đây là các framework chiến lược/tư duy/giao tiếp kinh điển, đủ tổng quát để phù hợp với phạm vi "quản lý con người & vận hành" của plugin.
-- **GTD Weekly Review, Deep Work/Time-blocking**: 2 framework bổ sung tiếp theo (từ việc rà soát repo `alirezarezvani/claude-skills`), thêm vào nhóm `thoi-gian-nang-suat` — cũng là framework năng suất cá nhân kinh điển (David Allen, Cal Newport).
+- **Porter's Five Forces, Ansoff Matrix, Pre-mortem, Stakeholder Map**: đây là các framework chiến lược/tư duy/giao tiếp kinh điển, đủ tổng quát để phù hợp với phạm vi "quản lý con người & vận hành" của plugin.
+- **GTD Weekly Review, Deep Work/Time-blocking**: framework bổ sung được thêm vào nhóm `thoi-gian-nang-suat` — cũng là framework năng suất cá nhân kinh điển (David Allen, Cal Newport).
 
 ## 7. Kiến trúc
 
