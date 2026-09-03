@@ -1,0 +1,13 @@
+{
+  "name": "manager-frameworks-toolkit",
+  "owner": {
+    "name": "Tom"
+  },
+  "plugins": [
+    {
+      "name": "manager-frameworks-toolkit",
+      "source": "./",
+      "description": "Bộ công cụ tư duy & phương pháp quản lý: chẩn đoán vấn đề rồi chọn đúng 1 trong ~35 framework kinh điển để áp dụng vào tình huống thực tế."
+    }
+  ]
+}

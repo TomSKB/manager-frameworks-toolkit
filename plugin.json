@@ -1,0 +1,8 @@
+{
+  "name": "manager-frameworks-toolkit",
+  "version": "0.3.0",
+  "description": "Bộ công cụ tư duy & phương pháp quản lý: chẩn đoán vấn đề rồi chọn đúng 1 trong ~35 framework kinh điển (Golden Circle, SWOT, PESTEL, Five Forces, Ansoff, McKinsey 7S/7-step, Toyota 8-step, PDCA, Kotter, SMART, OKR, GROW, RACI, Maslow, Fogg, Johari, STAR, SBI, Minto Pyramid, ORID, NLP Logical Levels, Stakeholder Map, Pre-mortem, LEAPS, BATNA, Pomodoro, Eisenhower, GTD, Deep Work, Tuckman, và nhiều framework khác) để áp dụng vào tình huống thực tế.",
+  "author": {
+    "name": "Tom"
+  }
+}
