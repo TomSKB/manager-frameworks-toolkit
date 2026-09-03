@@ -130,7 +130,7 @@ claude --plugin-dir ./manager-frameworks-toolkit
 
 ## 6. Nguồn gốc & lưu ý về độ chính xác
 
-Phần lớn framework đến từ cuốn sách "Tư duy & Phương pháp Quản lý Đúng" (video + ảnh người dùng cung cấp) và các nguồn kinh điển đã được kiểm chứng. Một số điểm cần lưu ý (đã ghi chú trực tiếp trong các file `references/` liên quan):
+Phần lớn framework đến từ các sách Tư duy & Phương pháp Quản lý Đúng và các nguồn kinh điển đã được kiểm chứng. Một số điểm cần lưu ý (đã ghi chú trực tiếp trong các file `references/` liên quan):
 
 - **5 Whys**: một số tài liệu (bao gồm nguồn sách) gọi nhầm kỹ thuật này là "Nguyên lý thứ nhất" — tên đúng và phổ biến quốc tế là 5 Whys, khác với First Principles Thinking thật.
 - **LEAPS**: không phải một mô hình học thuật có định nghĩa thống nhất duy nhất — dùng như khung gợi ý thực dụng, không phải công thức cứng.
